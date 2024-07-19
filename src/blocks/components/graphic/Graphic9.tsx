@@ -1,5 +1,5 @@
 import styled from "styled-components";
-import Icon from "./Icon";
+
 import { selector, useRecoilValue } from "recoil";
 import { IconState } from "../../../util/state/Recoil";
 import treehouse from "../../../assets/tree-removebg-preview.png";

@@ -3,8 +3,6 @@ import Icon from "./Icon";
 import { selector, useRecoilValue } from "recoil";
 import { IconState } from "../../../util/state/Recoil";
 import treehouse from "../../../assets/tree-removebg-preview.png";
-import Iconify from "./Iconify";
-
 const Graphic12 = () => {
   const JustifyState = selector({
     key: "charCountState", // unique ID (with respect to other atoms/selectors)

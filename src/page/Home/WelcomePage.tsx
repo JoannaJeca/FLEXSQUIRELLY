@@ -1,3 +1,4 @@
+/* eslint-disable @typescript-eslint/no-explicit-any */
 import { useDispatch } from "react-redux";
 import squirell from "../../assets/squirell-removebg-preview.png";
 import styled from "styled-components";
